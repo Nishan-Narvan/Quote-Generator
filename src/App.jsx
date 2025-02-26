@@ -84,11 +84,8 @@ function App() {
     "url('https://w.wallhaven.cc/full/8o/wallhaven-8o7o1y.jpg')",
     "url('https://static.wallhaven.cc/images/layout/bg-dark-grain.png')",
     "url('https://static.wallhaven.cc/images/layout/bg-dark-grain.png')",
-  
     "url('https://static.wallhaven.cc/images/layout/bg-dark-grain.png')",
-"url('https://w.wallhaven.cc/full/yx/wallhaven-yxqzpd.jpg')",
-    "url('')",
-    "url('')",
+    "url('https://w.wallhaven.cc/full/yx/wallhaven-yxqzpd.jpg')",
     "url('https://w.wallhaven.cc/full/5g/wallhaven-5g26o9.jpg')",
     "url('https://w.wallhaven.cc/full/6d/wallhaven-6dp6ox.jpg')",
     "url('https://w.wallhaven.cc/full/dp/wallhaven-dpj72g.jpg')",
@@ -101,7 +98,7 @@ function App() {
     "url('https://w.wallhaven.cc/full/l3/wallhaven-l3zmwy.jpg')",
     "url('https://w.wallhaven.cc/full/r2/wallhaven-r25zz7.jpg')",
 
-    "url('https://w.wallhaven.cc/full/1p/wallhaven-1pvr5w.jpg')"
+    // "url('https://w.wallhaven.cc/full/1p/wallhaven-1pvr5w.jpg')"
   ];
 
   const [bgImage, setBgImage] = useState(backgrounds[0]);
