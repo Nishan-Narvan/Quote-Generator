@@ -149,10 +149,10 @@ function App() {
         justifyContent: "center",
         alignItems: "center",
         backgroundImage: bgImage ,
-        backgroundSize: "cover",
+        // backgroundSize: "cover",
         backgroundPosition: "center",
-        width: "100vw",
-        height: "1000vh",
+        width: "98vw",
+        height: "98vh",
         flexDirection: "column",
       }}
     >
